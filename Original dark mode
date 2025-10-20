@@ -1,7 +1,7 @@
 
 
 #header {
-background-image: url("file:///Users/scarletcraig/Downloads/ao3header.jpg");
+background-image: url("https://imgur.com/fHgTPuG.jpg");
 background-repeat: no-repeat;
 height: 130px;
 }
@@ -209,7 +209,7 @@ color: #8B2116;
 }
 
 #footer {
-background-image: url("file:///Users/scarletcraig/Documents/footer.jpg");
+background-image: url("https://imgur.com/vQOcsQN.jpg");
 box-shadow: none;
 border: none;
 }
@@ -260,7 +260,7 @@ box-shadow: 2px #E7B3C6 dashed;
 }
 
 form.filters {
-background-image: url("file:///Users/scarletcraig/Documents/footer.jpg");
+background-image: url("https://imgur.com/vQOcsQN.jpg");
 }
 
 .filters dt {
