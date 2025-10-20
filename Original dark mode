@@ -1,7 +1,7 @@
 
 
 #header {
-background-image: url("file:///var/folders/6m/096vkylj4px329y9w7yzd3z40000gn/T/TemporaryItems/NSIRD_screencaptureui_oOxE93/Screenshot%202025-10-20%20at%2012.44.23%E2%80%AFAM.png");
+background-image: url("file:///Users/scarletcraig/Downloads/ao3header.jpg");
 background-repeat: no-repeat;
 height: 130px;
 }
@@ -209,7 +209,7 @@ color: #8B2116;
 }
 
 #footer {
-background-image: url("file:///Users/scarletcraig/Desktop/Screenshot%202025-10-20%20at%201.07.00%E2%80%AFAM.png");
+background-image: url("file:///Users/scarletcraig/Documents/footer.jpg");
 box-shadow: none;
 border: none;
 }
@@ -260,7 +260,7 @@ box-shadow: 2px #E7B3C6 dashed;
 }
 
 form.filters {
-background-image: url("file:///Users/scarletcraig/Desktop/Screenshot%202025-10-20%20at%201.07.00%E2%80%AFAM.png");
+background-image: url("file:///Users/scarletcraig/Documents/footer.jpg");
 }
 
 .filters dt {
